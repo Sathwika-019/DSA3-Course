@@ -1,3 +1,0 @@
-Robotics
-
-Robotics combines computer science, engineering, and electronics to create machines that can perform tasks automatically. Robots are used in manufacturing, healthcare, and exploration.

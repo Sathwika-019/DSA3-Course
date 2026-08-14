@@ -1,3 +1,0 @@
-Blockchain Technology
-
-Blockchain is a distributed technology that records transactions in a secure and transparent manner. It is widely associated with digital currencies and decentralized applications.
